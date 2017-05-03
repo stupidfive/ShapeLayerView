@@ -1,0 +1,22 @@
+{
+  "name": "ShapeLayerView",
+  "version": "0.1.0",
+  "summary": "A short description of ShapeLayerView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GeorgeWu/ShapeLayerView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GeorgeWu": "wuzheng@zerozero.cn"
+  },
+  "source": {
+    "git": "https://github.com/GeorgeWu/ShapeLayerView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ShapeLayerView/Classes/**/*"
+}

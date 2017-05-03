@@ -1,0 +1,6 @@
+framework module ShapeLayerView {
+  umbrella header "ShapeLayerView-umbrella.h"
+
+  export *
+  module * { export * }
+}
